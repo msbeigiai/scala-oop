@@ -1,0 +1,1 @@
+## A simple parking application in Scala with OOP concepts.
